@@ -874,3 +874,9 @@ div {
 	padding: 8vh;
 	text-align: center;
 }
+
+.card-shadow {
+	-webkit-box-shadow: 10px 10px 123px -36px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 123px -36px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 123px -36px rgba(0,0,0,0.75);
+}
